@@ -1,0 +1,7 @@
+Kaikki vaaditut on tehty. Salasana on vaihdettu ja updatet tehty.
+
+Tiedostojärjestelmää en vaihtanut, koska SD-kortilla oli valmiiksi 
+käyttöjärjestelmä.
+
+Tein vaaditut suoraan graafisesta käyttöliittymästä käynnistyksen yhteydessä,
+paitsi päivitykset terminaalista.

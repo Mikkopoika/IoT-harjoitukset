@@ -1,0 +1,5 @@
+github-nimi on Mikkopoika ja repo on julkinen.
+Rasberrylle tehty SSH ja git asennettu.
+
+Osoite: https://github.com/Mikkopoika/IoT-harjoitukset
+

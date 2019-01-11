@@ -1,0 +1,18 @@
+Lisäkohta ohjeisiin: Internet yhteyden jakaminen (MAC)
+1. Klikkaa omena -> Järjestelmäasetukset
+2. Klikkaa jako
+3. Klikkaa Internet-jako ja valitse oikealta sopivat ruksit
+4. Klikkaa rasti Internet-jako -kohtaan. 
+5. Palaa Järjestelmäasetukset-aloitussivulle ja valitse Verkko
+6. Liitä Raspberry ja odota, että oikea kohta muuttuu vihreäksi. 
+7. Voit tarkistaa IP-osoitteen tästä ikkunasta.
+
+IP-osoite 169.254.157.181 Macilta ulospäin
+
+hostname -I antaa 192.168.3.2
+
+Yhdistetään:
+ssh pi@192.168.3.2
+
+Annetaan uusi salasana ja ollaan sisällä. Kirjoitan nämä vastaukset 
+ssh:n kautta raspille ja committoin ne Gitiin.
