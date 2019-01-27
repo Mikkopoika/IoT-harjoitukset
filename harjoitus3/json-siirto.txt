@@ -1,0 +1,3 @@
+JSON-tiedosto siirrettiin Macin päätteellä raspille käskyllä:
+
+scp muilu-mikko-tiea345-9eac25548aef.json pi@192.168.3.2:
