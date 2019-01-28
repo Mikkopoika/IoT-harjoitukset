@@ -12,7 +12,7 @@ camera = PiCamera()
 	
 #ottaa huonolaatuista videota 15s.
 camera.resolution = (128,128)
-camera.start_recording('/home/pi/video.h264')
+camera.start_recording('huonovideo.h264')
 sleep(15)
 camera.stop_recording()
 	
