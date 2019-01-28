@@ -1,0 +1,5 @@
+Laitoin Apachen pyörimään ja muokkasin index.html -tiedostoon kuvan. Index.html löytyy reposta. 
+
+koodi33.py sisältää kuvan ottamiseen tarvitun koodin. Ohjelma tallentaa kuvan suoraan palvelimen /html/Picturees -kansioon
+
+

@@ -1,0 +1,5 @@
+https://youtu.be/9r40fwpyoh8
+
+Videota huononnettiin camera.resolution = (128,128) -käskyllä. 
+
+Koodi tiedostossa koodi33.py
